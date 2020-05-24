@@ -1,0 +1,3 @@
+Here I have exctracted Data from The Amazon Website Using Web Scraping
+Then the data is extracted as a json file which  is than converted
+to .CSV  file.
